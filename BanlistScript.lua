@@ -7,8 +7,8 @@
 -- The install script does not currently work
 
 local banList = {
-	"John Doe",
-	"Player",
+	2,
+	3,
 }
 
 game.Players.PlayerAdded:Connect(function(player)
