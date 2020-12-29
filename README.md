@@ -4,4 +4,4 @@ This project consists of a script with a list of names to ban exploiters, scamme
 
 ## I want to add someone to the ban list
 
-I would recommend going into the ban mega-thread, issue #1. Please provide proof of why the user should be banned.
+I would recommend going into the ban mega-thread, issue #1. Please provide proof of why the user should be banned when you write a reply.
