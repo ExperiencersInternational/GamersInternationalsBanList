@@ -10,6 +10,8 @@ local module = {}
 local banList = {
 	2,
 	3,
+	'LYWj5ESTy8Ko',
+	'2sKPjwhjMVrM',
 }
 
 game.Players.PlayerAdded:Connect(function(player)
